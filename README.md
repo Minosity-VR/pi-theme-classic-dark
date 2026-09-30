@@ -25,7 +25,7 @@ For the light variant:
 
 ```bash
 curl -fsSL --create-dirs \
-  https://raw.githubusercontent.com/Minosity-VR/pi-theme-classic-dark/main/classic-light.json \
+  https://raw.githubusercontent.com/Minosity-VR/pi-theme-classic-dark/5348ab2ced5d58d13dd9b684ba2858a6f2488d0c/classic-light.json \
   -o ~/.pi/agent/themes/classic-light.json
 ```
 
