@@ -8,7 +8,7 @@ Download the theme into your pi themes directory:
 
 ```bash
 curl -fsSL --create-dirs \
-  https://raw.githubusercontent.com/Minosity-VR/pi-theme-classic-dark/refs/heads/main/classic-dark.json \
+  https://raw.githubusercontent.com/Minosity-VR/pi-theme-classic-dark/2e43f5b3739ed12ada90085c51ede6e32a1446f7/classic-dark.json \
   -o ~/.pi/agent/themes/classic-dark.json
 ```
 
